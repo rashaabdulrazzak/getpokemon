@@ -1,8 +1,8 @@
 # getpokemon
 
-a simple app to learn how to use Graphgl query with react 
+a simple app to learn how to use Graphql query with react 
 
-live demo : https://getpokemon-bwza4cs9w.now.sh/
+live demo hosted by vercel : https://getpokemon-bwza4cs9w.now.sh/
 
 Repository link https://github.com/rashaabdulrazzak/getpokemon/
 
@@ -15,6 +15,7 @@ screen shot
 ### Useful Links: 
 
 graphql : https://graphql.org/ 
+hosting your repository : https://vercel.com/
 react documenation : https://reactjs.org/
 
 to follow with steps enroll build react app with graphql on scrimba :  https://scrimba.com/course/greactgraphql
