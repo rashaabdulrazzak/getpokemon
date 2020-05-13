@@ -10,7 +10,7 @@ Final result will be a list of pokemons with some styles
 
 screen shot
 
-<img src='screenshot/screnshot.png'>
+<img src='screenshot/screenshot.png'>
  
 ### Useful Links: 
 
