@@ -1,5 +1,23 @@
 # getpokemon
 
+a simple app to learn how to use Graphgl query with react 
+
+live demo : https://getpokemon-bwza4cs9w.now.sh/
+
+Repository link https://github.com/rashaabdulrazzak/getpokemon/
+
+Final result will be a list of pokemons with some styles 
+
+screen shot
+
+<img src='screenshot/screnshot.png'>
+ 
+### Useful Links: 
+
+graphql : https://graphql.org/ 
+react documenation : https://reactjs.org/
+
+to follow with steps enroll build react app with graphql on scrimba :  https://scrimba.com/course/greactgraphql
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
