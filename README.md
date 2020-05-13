@@ -2,7 +2,9 @@
 
 a simple app to learn how to use Graphql query with react 
 
+
 live demo hosted by vercel : https://getpokemon-bwza4cs9w.now.sh/
+
 
 Repository link https://github.com/rashaabdulrazzak/getpokemon/
 
@@ -10,15 +12,19 @@ Final result will be a list of pokemons with some styles
 
 screen shot
 
-<img src='screenshot/screenshot.png'>
+<img src='screenshot/screenshot.png' height='400'>
+
  
-### Useful Links: 
+ Useful Links: 
 
 graphql : https://graphql.org/ 
+
 hosting your repository : https://vercel.com/
+
 react documenation : https://reactjs.org/
 
 to follow with steps enroll build react app with graphql on scrimba :  https://scrimba.com/course/greactgraphql
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
